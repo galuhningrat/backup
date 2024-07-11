@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/src"/>
+    <qresource prefix="/qrc"/>
+    <qresource prefix="/">
+        <file>radar.png</file>
+    </qresource>
+</RCC>
